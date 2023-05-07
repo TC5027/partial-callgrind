@@ -1,0 +1,11 @@
+[package]
+name = "partial-callgrind"
+authors = ["Thibault Chatel <thibaultchatel@outlook.fr>"]
+version = "0.1.0"
+license="MIT"
+edition = "2021"
+description = "Callgrind client requests in Rust"
+repository = "https://github.com/TC5027/partial-callgrind"
+homepage = "https://github.com/TC5027/partial-callgrind"
+keywords = ["callgrind"]
+categories = ["development-tools::profiling", "development-tools"]
